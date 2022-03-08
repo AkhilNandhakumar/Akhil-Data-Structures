@@ -1,5 +1,6 @@
 ## Akhil Nandhakumar - Data Structures 1 Github Pages
 
+| Week # | TPT Notes | TT Notes | Data Structures Work/Code/Assignments | Create Task Work |
 ---
 
 ### Markdown Info
