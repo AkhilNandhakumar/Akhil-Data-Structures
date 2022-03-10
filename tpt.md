@@ -2,10 +2,22 @@
 # Test Prep Notes + Actions
 ***
 ## Week 0 (TPT 5.1 - 5.2)
-- content
+- Add 5.1 5.2 notes here
+- Flowcharts
+  - Each goes with the procedural or object oriented coding style
+  - Sequencing, Selection, and Iteration included in flowcharts
+  - Helps with organization and communication
+- UML Diagrams (unified modeling languages)
+  - Goes with Object Oriented programming
+  - Data containing and methods planning
+  - Methods and objects have a flowchart-ish flow
+  
 
 ### Actions:
-- content
+- 5.1:
+  - answers
+- 5.2
+  - answers
 
 ***
 
