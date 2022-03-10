@@ -65,11 +65,7 @@ def matrix():
 
 def pattern():
   row = int(input('Enter number of rows required: '))
-  
-  try:
-    row <= 20
-  except:
-    print("Please enter a number or rows less than 20")
+    
   for i in range(row):
       for j in range(row-i):
           print(' ', end='')
