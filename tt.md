@@ -1,5 +1,5 @@
 {% include nav.html %}
-# Test Prep Notes + Actions
+# Test Prep Work + Data Structures Projects
 ***
 ## TT0 [Replit Link for Menu Runtime](https://replit.com/@AkhilNandhakuma/Data-Structures-1#main.py)
 - Worked on making a menu with submenus for python
