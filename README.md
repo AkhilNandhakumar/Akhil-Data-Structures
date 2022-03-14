@@ -1,6 +1,5 @@
-## Akhil Nandhakumar - Data Structures 1 Github Pages
----
-### Week 0 Review Ticket:
+## Akhil Nandhakumar - README/Tickets:
+### Week 0 Review Ticket
 **Team:**
 - [Project Description](https://github.com/AkhilNandhakumar/Guython#project-description)
 - [Project Plans](https://github.com/AkhilNandhakumar/Guython#project-plans)
