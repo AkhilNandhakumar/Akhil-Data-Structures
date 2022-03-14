@@ -1,11 +1,14 @@
 {% include nav.html %}
 # Test Prep Notes + Actions
 **Table of Contents:**
-| Week | Link |
-| --- | --- |
-| 0 | [Go to Week 0](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/edit/main/tpt.md#week-0-tpt-51---52) |
-| 1 | [Go to Week 1](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/edit/main/tpt.md#week-1-tpt-53---54) |
+
+Week | Link
+--- | ---
+0 | [Go to Week 0](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/edit/main/tpt.md#week-0-tpt-51---52)
+1 | [Go to Week 1](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/edit/main/tpt.md#week-1-tpt-53---54)
+
 ***
+
 ## Week 0 (TPT 5.1 - 5.2)
 - Internet was originally for scientists
 - Most people spend more time on the internet than sleeping
