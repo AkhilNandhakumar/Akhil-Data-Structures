@@ -1,5 +1,8 @@
 ## Akhil Nandhakumar - README/Tickets:
+***
 ### Week 0 Review Ticket
+**Score from Grader (Ritvik): 5/5**
+
 **Team:**
 - [Project Description](https://github.com/AkhilNandhakumar/Guython#project-description)
 - [Project Plans](https://github.com/AkhilNandhakumar/Guython#project-plans)
@@ -9,6 +12,8 @@
 
 **Individual:**
 
-GitHub Page for TPT  | GitHub Page for TT/Data Structures Code Assignments | GitHub Page for Create Task |
---- | --- | ---
-[TPT with Actions](https://akhilnandhakumar.github.io/Akhil-Data-Structures/tpt) | [Page with Link to Code Snippet and Runtime](https://akhilnandhakumar.github.io/Akhil-Data-Structures/tt) | [Create Task Page](https://akhilnandhakumar.github.io/Akhil-Data-Structures/ct)
+- [GitHub Page for TPT](https://akhilnandhakumar.github.io/Akhil-Data-Structures/tpt)
+- [GitHub Page for TT/Data Structures Code Assignments](https://akhilnandhakumar.github.io/Akhil-Data-Structures/tt)
+- [GitHub Page for Create Task](https://akhilnandhakumar.github.io/Akhil-Data-Structures/ct)
+***
+
