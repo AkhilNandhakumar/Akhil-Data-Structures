@@ -1,5 +1,5 @@
 {% include nav.html %}
-# Test Talk Work + Data Structures Projects
+# Tech Talk Work + Data Structures Projects
 ***
 ## TT0 [Replit Link for Menu Runtime](https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures#main.py)
 - Worked on making a menu with submenus for python
