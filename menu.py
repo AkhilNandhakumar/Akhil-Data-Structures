@@ -162,7 +162,3 @@ def buildMenu(banner, options):
     # end validation try
 
     buildMenu(banner, options)  # recursion, start menu over again
-
-
-if __name__ == "__main__":
-    menu()
