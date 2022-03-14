@@ -1,7 +1,7 @@
 ## Akhil Nandhakumar - README/Tickets:
 ***
 ### Week 0 Review Ticket
-**Score from Grader (Ritvik): 5/5**
+**Score from Grader (Ritvik): 3/3**
 
 **Team:**
 - [Project Description](https://github.com/AkhilNandhakumar/Guython#project-description)
