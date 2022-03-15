@@ -1,6 +1,8 @@
 # menuy.py - function style menu
 # Imports typically listed at top
 import time
+from TT1 import fibonacci
+from TT1 import lists
 keypad = [[1, 2, 3],
           [4, 5, 6],
           [7, 8, 9],
@@ -99,6 +101,7 @@ main_menu = [
     ["Animation", animation],
     ["Pattern", patterns_submenu],
     ["Numbers", submenu],
+    ["Lists", lists.tester]
 ]
 
 # Submenu list of [Prompt, Action]
@@ -107,6 +110,7 @@ main_menu = [
 sub_menu = [
     ["Matrix", matrix],
     ["Swap", swap],
+    ["Fibonnaci", fibonacci.fibonacci],
 ]
 
 patterns_sub_menu = [
