@@ -4,8 +4,8 @@
 
 Week | Link
 --- | ---
-0 | [Go to Week 0](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/edit/main/tpt.md#week-0-tpt-51---52)
-1 | [Go to Week 1](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/edit/main/tpt.md#week-1-tpt-53---54)
+0 | [Go to Week 0](#week-0-tpt-51---52)
+1 | [Go to Week 1](#week-1-tpt-53---54)
 
 ***
 
