@@ -2,7 +2,7 @@
 
 # Tech Talk Work + Data Structures Projects
 ### Runtime:
-<iframe height="600px" width="1000px" src="https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures?lite-true"></iframe>
+<iframe height="600px" width="1000px" src="https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures?lite=true"></iframe>
 
 ***
 
