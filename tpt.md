@@ -40,10 +40,50 @@ Week | Link
 ***
 
 ## Week 1 (TPT 5.3 - 5.4)
-- content
+
+**5.3**
+- Example: Netflix
+  - Requires a lot of explicit data
+  - Name, address, thumbs up/thumbs down
+  - Also explicit data
+  - When you watch, what you binge, styles of shows
+  - Bias here: Netflix exclusives will show up first over other movies
+  - They want their content and subscriptions before the other movies
+- Computing innovations can reflect distinct human biases, because of biases written into the algorithm or biases in the data used by the innovation
+- Biases can be embedded in all levels of software, and can be unintentional or intentional
+- Examples:
+  - sweaty vs. casual games
+    - Youtube kids
+    - Tiktok
+    - Facebook, instagram, snapchat
+    - WeChat/Kakao Talk
+- Questions to ask:
+  - Is the bias enhancing the usage or is it intentionally excluding certain groups?
+  - It is hateful or harmful?
+  
+**5.4**
+- Widespread access to information and public data creates the identification of problems, development of solutions, and dissemination of results
+- Science has been affected by using citizen science or crowdsourcing
+- Crowdsourcing or citizen science is research conducted by distributed individuals
+- They may not be scientists, but contribute to the research using their own devices
+- Using input from a large number or people via the internet
+- Human capabilities can be enhance through computational collaboration
+- Crowdsourcing can create new models for collaboration
+- Blockchain and cryptocurrency was made possible using crowdsourcing
+
+
 
 ### Actions:
-- content
+**5.3**
+- The owner did not think it was intentional, since the reason behind this happening was most likely not including a diverse sample set of testers to test the feature.
+The people that did test it before release might not have had darker skin, which lead to the program being biased towards a certain skin color.
+- It is not very harmful, just unintended, and the program was definitely not intended to be harmful or exclude people from a certain race.
+- It should be corrected so that the feature works for all users, and there should be no limitations for certain users over others.
+- I would have a more diverse group of people for testing the feature so that more bias could be excluded.
+
+**5.4**
+- If a student in our compsci class is creating a program to simulate the different classes compsci students go to after graduating based on many factors, they can use crowdsourcing by asking for data, each person's grades, whether they have met the credit requirement for graduation, or gpa, and use it in their program to make a better simulation.
+- Our final project of making a resource for DN students to use for studying or practicing topics for their classes can be bettered with crowdsourcing by having a bug reporting page where users in del norte can point out bugs they find in the page or give feedback on what can be changed to make using the site easier.
 
 ***
 
