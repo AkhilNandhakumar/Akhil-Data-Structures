@@ -1,6 +1,8 @@
 ## Akhil Nandhakumar - README/Tickets:
 ***
 ### Week 0 Review Ticket
+<details><summary> Content </summary>
+
 **Score from Grader (Ritvik): 3/3**
 
 **Team:**
@@ -16,5 +18,5 @@
 - [GitHub Page for TT/Data Structures Code Assignments](https://akhilnandhakumar.github.io/Akhil-Data-Structures/tt)
 - [GitHub Page for Create Task](https://akhilnandhakumar.github.io/Akhil-Data-Structures/ct)
 
-***
+</details>
 
