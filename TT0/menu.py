@@ -72,49 +72,39 @@ def swap():
 
 # ----------------------------------------------------------
 
-# def menu
-# using main_menu list:
-# 1. main menu and submenu reference are created [Prompts, Actions]
-# 2. menu_list is sent as parameter to menuy.menu function that has logic for menu control
-
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     buildMenu(title, menu_list)
   
 
-# def submenu
-# using sub menu list above:
-# sub_menu works similarly to menu()
-
-def submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, sub_menu)
+def submenu0():
+    title = "Week 0 - Menu" + banner
+    buildMenu(title, sub_menu0)
 
 
-def patterns_submenu():
-    title = "Function Submenu" + banner
-    buildMenu(title, patterns_sub_menu)
+def submenu1():
+    title = "Week 1 - Menu" + banner
+    buildMenu(title, sub_menu1)
 
 
 main_menu = [
+    ["Week 0", submenu0],
+    ["Week 1", submenu1],
+    ["Week 2", None],
+    ["Week 3", None]
+]
+
+sub_menu0 = [
     ["Animation", animation],
-    ["Pattern", patterns_submenu],
-    ["Numbers", submenu],
-    ["Lists", lists.tester]
-]
-
-# Submenu list of [Prompt, Action]
-# Works similarly to main_menu
-
-sub_menu = [
-    ["Matrix", matrix],
     ["Swap", swap],
-    ["Fibonnaci", fibonacci.fibonacci],
+    ["Keypad Matrix", matrix],
+    ["Triangle Pattern", triangle_pattern],
 ]
 
-patterns_sub_menu = [
-    ["Triangle", triangle_pattern],
+sub_menu1 = [
+    ["Loops/InfoDB", lists.tester],
+    ["Fibonacci", fibonacci.fibonacci],
 ]
 
 # Menu banner is typically defined by menu owner

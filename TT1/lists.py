@@ -20,6 +20,24 @@ InfoDb.append({
                "Fav_Cars":["joe mobile","joe mobile","joe mobile"]  
               })
 
+InfoDb.append({  
+               "FirstName": "Jakub",  
+               "LastName": "Ponulak",  
+               "DOB": "May 5",  
+               "Residence": "San Diego",  
+               "Email": "jakub.ponulak@gmail.com",  
+               "Fav_Cars":["subarue","skyline","supra"]  
+              })
+
+InfoDb.append({  
+               "FirstName": "Nakul",  
+               "LastName": "Nandhakumar",  
+               "DOB": "April 3",  
+               "Residence": "San Diego",  
+               "Email": "nakul@nandhakumar.net.com",  
+               "Fav_Cars":["bugatti veyron gt sport","Audi r8","Ferarri 458"]  
+              })
+
 # given an index this will print InfoDb content
 def print_data(n):
     print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])  # using comma puts space between values
