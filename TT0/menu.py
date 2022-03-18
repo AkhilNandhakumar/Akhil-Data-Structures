@@ -1,5 +1,3 @@
-# menuy.py - function style menu
-# Imports typically listed at top
 import time
 from TT1 import fibonacci
 from TT1 import lists
@@ -7,13 +5,6 @@ keypad = [[1, 2, 3],
           [4, 5, 6],
           [7, 8, 9],
           [" ", 0, " "]]
-# each import enables us to use logic that has been abstracted to other files and folders
-
-
-# Main list of [Prompts, Actions]
-# Two styles are supported to execute abstracted logic
-# 1. file names will be run by exec(open("filename.py").read())
-# 2. function references will be executed directly file.function()
 
 # ----------------------------------------------------------
 
@@ -34,13 +25,13 @@ def animation_print(position):
     print(RESET_COLOR)
 
 def animation():
-  start = 0
-  distance = 30 
-  step = 1
+    start = 0
+    distance = 30
+    step = 1
 
-  for position in range(start, distance, step):
-      animation_print(position)  
-      time.sleep(.1)
+    for position in range(start, distance, step):
+        animation_print(position)
+        time.sleep(.1)
 
 def matrix():
     for i in keypad:
@@ -49,26 +40,26 @@ def matrix():
         print()
 
 def triangle_pattern():
-  row = 9
-    
-  for i in range(row):
-      for j in range(row-i):
-          print(' ', end='')
-    
-      for j in range(2*i+1):
-          print('*',end='')
-      print()
-  print("---------------------")
-      
+    row = 9
+
+    for i in range(row):
+        for j in range(row-i):
+            print(' ', end='')
+
+        for j in range(2*i+1):
+            print('*',end='')
+        print()
+    print("---------------------")
+
 def swap():
-  a = input("enter first number: ")
-  b = input("enter second number: ")
-  print("swapping if second number is less than first.")
-  print(f"original sequence:  {a}, {b}")
-  if b < a:
-      b, a = a, b
-  print(f"Sequence after swap: {a}, {b}")
-  print("---------------------")
+    a = input("enter first number: ")
+    b = input("enter second number: ")
+    print("swapping if second number is less than first.")
+    print(f"original sequence:  {a}, {b}")
+    if b < a:
+        b, a = a, b
+    print(f"Sequence after swap: {a}, {b}")
+    print("---------------------")
 
 # ----------------------------------------------------------
 
@@ -76,7 +67,18 @@ def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     buildMenu(title, menu_list)
-  
+<<<<<<< HEAD
+
+def submenu0():
+    title = "Week 0" + banner
+    buildMenu(title, submenu_0)
+
+
+def submenu1():
+    title = "Week 1" + banner
+    buildMenu(title, submenu_1)
+=======
+
 
 def submenu0():
     title = "Week 0 - Menu" + banner
@@ -86,13 +88,28 @@ def submenu0():
 def submenu1():
     title = "Week 1 - Menu" + banner
     buildMenu(title, sub_menu1)
+>>>>>>> origin/main
 
 
 main_menu = [
-    ["Week 0", submenu0],
-    ["Week 1", submenu1],
-    ["Week 2", None],
-    ["Week 3", None]
+                ["Week 0", submenu0],
+                ["Week 1", submenu1],
+            <<<<<<< HEAD
+]
+
+submenu_0 = [
+    ["Animation", animation],
+    ["Swap", swap],
+    ["Triangle Pattern", triangle_pattern],
+    ["Matrix Keypad", matrix],
+]
+
+submenu_1 = [
+                ["Fibonacci", fibonacci.fibonacci],
+                ["InfoDB Lists/Loops", lists.tester],
+            =======
+["Week 2", None],
+["Week 3", None]
 ]
 
 sub_menu0 = [
@@ -103,15 +120,14 @@ sub_menu0 = [
 ]
 
 sub_menu1 = [
-    ["Loops/InfoDB", lists.tester],
-    ["Fibonacci", fibonacci.fibonacci],
+                ["Loops/InfoDB", lists.tester],
+                ["Fibonacci", fibonacci.fibonacci],
+            >>>>>>> origin/main
 ]
 
-# Menu banner is typically defined by menu owner
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
 
-  
 def buildMenu(banner, options):
     # header for menu
     print(banner)

@@ -2,41 +2,77 @@
 
 InfoDb = []
 # List with dictionary records placed in a list  
-InfoDb.append({  
-               "FirstName": "Akhil",  
-               "LastName": "Nandhakumar",  
-               "DOB": "Novermber 1",  
-               "Residence": "San Diego",  
-               "Email": "akhil@nandhakumar.net",  
-               "Fav_Cars":["2020 Dodge Charger","2022 Mercedes AMG Black Series","2008 Kia Rio"]  
-              })  
+InfoDb.append({
+    "FirstName": "Akhil",
+    "LastName": "Nandhakumar",
+    "DOB": "Novermber 1",
+    "Residence": "San Diego",
+    "Email": "akhil@nandhakumar.net",
+    "Fav_Cars":["2020 Dodge Charger","2022 Mercedes AMG Black Series","2008 Kia Rio"]
+})
 
-InfoDb.append({  
-               "FirstName": "Joe",  
-               "LastName": "Joe",  
-               "DOB": "April 20",  
-               "Residence": "San Diego",  
-               "Email": "joe@joe.com",  
-               "Fav_Cars":["joe mobile","joe mobile","joe mobile"]  
-              })
+InfoDb.append({
+    "FirstName": "Nandhu",
+    "LastName": "Nandhakumar",
+    "DOB": "May 29",
+    "Residence": "San Diego",
+    "Email": "nandhu@nandhakumar.net",
+    "Fav_Cars":["Audi S5","1979 Triumph Spitfire","Tesla Model 3", "2004 Toyota Sienna"]
+})
 
-InfoDb.append({  
-               "FirstName": "Jakub",  
-               "LastName": "Ponulak",  
-               "DOB": "May 5",  
-               "Residence": "San Diego",  
-               "Email": "jakub.ponulak@gmail.com",  
-               "Fav_Cars":["subarue","skyline","supra"]  
-              })
+InfoDb.append({
+    "FirstName": "Nakul",
+    "LastName": "Nandhakumar",
+    "DOB": "April 3",
+    "Residence": "San Diego",
+    "Email": "nakul@nandhakumar.net",
+    "Fav_Cars":["Audi R8","Ferrari 458 Italia","Bugatti Veyron Supersport"]
+})
 
-InfoDb.append({  
-               "FirstName": "Nakul",  
-               "LastName": "Nandhakumar",  
-               "DOB": "April 3",  
-               "Residence": "San Diego",  
-               "Email": "nakul@nandhakumar.net.com",  
-               "Fav_Cars":["bugatti veyron gt sport","Audi r8","Ferarri 458"]  
-              })
+InfoDb.append({
+    "FirstName": "Jakub",
+    "LastName": "Ponulak",
+    "DOB": "May 15",
+    "Residence": "San Diego",
+    "Email": "jauk.ponulak@gmail.com",
+    "Fav_Cars":["Suprea 2Jz","Subaru WRX" ,"Evo Lancer Mitsubishi"]
+})
+
+InfoDb.append({
+    "FirstName": "Jakub",
+    "LastName": "Ponulak",
+    "DOB": "May 5",
+    "Residence": "San Diego",
+    "Email": "jakub.ponulak@gmail.com",
+    "Fav_Cars":["subarue","skyline","supra"]
+})
+
+InfoDb.append({
+    "FirstName": "Nakul",
+    "LastName": "Nandhakumar",
+    "DOB": "April 3",
+    "Residence": "San Diego",
+    "Email": "nakul@nandhakumar.net.com",
+    "Fav_Cars":["bugatti veyron gt sport","Audi r8","Ferarri 458"]
+})
+
+InfoDb.append({
+    "FirstName": "Jakub",
+    "LastName": "Ponulak",
+    "DOB": "May 5",
+    "Residence": "San Diego",
+    "Email": "jakub.ponulak@gmail.com",
+    "Fav_Cars":["subarue","skyline","supra"]
+})
+
+InfoDb.append({
+    "FirstName": "Nakul",
+    "LastName": "Nandhakumar",
+    "DOB": "April 3",
+    "Residence": "San Diego",
+    "Email": "nakul@nandhakumar.net.com",
+    "Fav_Cars":["bugatti veyron gt sport","Audi r8","Ferarri 458"]
+})
 
 # given an index this will print InfoDb content
 def print_data(n):
@@ -54,10 +90,10 @@ def for_loop():
         print_data(n)
 
 def while_loop(n):
-  while n < len(InfoDb):
-      print_data(n)
-      n += 1
-  return
+    while n < len(InfoDb):
+        print_data(n)
+        n += 1
+    return
 
 def recursive_loop(n):
     if n < len(InfoDb):
