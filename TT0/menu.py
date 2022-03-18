@@ -67,7 +67,6 @@ def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
     buildMenu(title, menu_list)
-<<<<<<< HEAD
 
 def submenu0():
     title = "Week 0" + banner
@@ -77,7 +76,6 @@ def submenu0():
 def submenu1():
     title = "Week 1" + banner
     buildMenu(title, submenu_1)
-=======
 
 
 def submenu0():
@@ -88,13 +86,11 @@ def submenu0():
 def submenu1():
     title = "Week 1 - Menu" + banner
     buildMenu(title, sub_menu1)
->>>>>>> origin/main
 
 
 main_menu = [
                 ["Week 0", submenu0],
                 ["Week 1", submenu1],
-            <<<<<<< HEAD
 ]
 
 submenu_0 = [
@@ -107,7 +103,6 @@ submenu_0 = [
 submenu_1 = [
                 ["Fibonacci", fibonacci.fibonacci],
                 ["InfoDB Lists/Loops", lists.tester],
-            =======
 ["Week 2", None],
 ["Week 3", None]
 ]
@@ -122,7 +117,6 @@ sub_menu0 = [
 sub_menu1 = [
                 ["Loops/InfoDB", lists.tester],
                 ["Fibonacci", fibonacci.fibonacci],
-            >>>>>>> origin/main
 ]
 
 border = "=" * 25
