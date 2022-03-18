@@ -6,7 +6,7 @@
 - [Current Project](#current-project-overview-and-plans)
 - **Review Tickets:**
   - [Week 0 Review Ticket](#week-0-review-ticket)
-  - [Week 2 Review Ticket](#week-1-review-ticket)
+  - [Week 1 Review Ticket](#week-1-review-ticket)
 
 ***
 
@@ -35,13 +35,14 @@ forget to do anything.
 ### Week 1 Review Ticket
 **Score from Grader (-----): --/3**
 
-**Team:**
-**Team:**
+**Team:** 
 - [Initial Requirements & owner contact info](https://github.com/AkhilNandhakumar/Guython#project-plans)
-- Tangible Plans:
-    - [Github Pages flowchart](https://docs.google.com/drawings/d/1mogokqAFAM5HKk9fLhzz1qdr9THwx2xbRpUxEg_czEs/edit?usp=sharing)
-    - [Calendar Notetaker plan](https://docs.google.com/drawings/d/1zjt5Qdw6l88m8sk59pMLM-W7xGrRt5vsgfnX6R5dAaE/edit?usp=sharing)
-    - [Overall Planning](https://github.com/AkhilNandhakumar/Guython#project-plans)
+
+Tangible Plans:
+
+- [Github Pages flowchart](https://docs.google.com/drawings/d/1mogokqAFAM5HKk9fLhzz1qdr9THwx2xbRpUxEg_czEs/edit?usp=sharing)
+- [Calendar Notetaker plan](https://docs.google.com/drawings/d/1zjt5Qdw6l88m8sk59pMLM-W7xGrRt5vsgfnX6R5dAaE/edit?usp=sharing)
+- [Overall Planning](https://github.com/AkhilNandhakumar/Guython#project-plans)
 - [Scrum Board:](https://github.com/AkhilNandhakumar/Guython/projects/1)
 
 **Individual:**
