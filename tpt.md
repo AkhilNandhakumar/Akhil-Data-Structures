@@ -1,11 +1,12 @@
 {% include nav.html %}
-# Test Prep Notes + Actions
-**Table of Contents:**
 
-Week | Link
---- | ---
-0 | [Go to Week 0](#week-0-tpt-51---52)
-1 | [Go to Week 1](#week-1-tpt-53---54)
+# Test Prep Notes + Actions
+
+***
+
+### Table of Contents:
+- [Week 0](#week-0-tpt-51---52)
+- [Week 1](#week-1-tpt-53---54)
 
 ***
 

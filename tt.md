@@ -1,6 +1,17 @@
 {% include nav.html %}
 
 # Tech Talk Work + Data Structures Projects
+
+***
+
+### Table of Contents:
+- [Replit Runtime](#runtime)
+- [Week 0 Details](#tt0-details)
+- [Week 1 Details](#tt1-details)
+- [Week 2 Details](#tt2-details)
+
+*** 
+
 ### Runtime:
 <iframe height="600px" width="600x" src="https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures?lite=true"></iframe>
 
