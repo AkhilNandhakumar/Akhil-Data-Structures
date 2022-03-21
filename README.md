@@ -1,4 +1,4 @@
-## Akhil Nandhakumar - README/Tickets:
+~~## Akhil Nandhakumar - README/Tickets:
 
 ***
 
@@ -32,8 +32,45 @@ forget to do anything.
 
 ***
 
+### Week 2 Review Ticket
+
+#### Total Score: **4.63/5**
+Grader: (Brian Tang) - 
+_**(Comments + Scoring Below)**_
+
+- [x]  1- One Check 5.3
+
+- [x]  1- One Check 5.4
+
+GitHub page that documents key learnings and code snippets using GitHub and replit.
+InfoDB lists
+
+- [x] 1 - One Check for New Data, minimum of 4 items
+  InfoDB loops
+
+- [x]  1- One Check For Loop running and sensible output
+
+- [x]  1- One Check While Loop running and sensible output
+
+- [x]  1- One Check Recursion running and sensible output
+  Fibonacci - (For Fibonacci(n) print complete list 0 - n and not just the nth term)
+
+- [x] 1- Algorithm
+- [x] 1- code with comments
+- [x] 1- Prints result
+- [x] Prints Complete List
+
+- [x]  1- One check: comments and documentation throughout
+
+#### Individual Score: 2.73/3
+
+##### Comments:
+
+All work other has been completed and code runs properly. One suggestion is to add more categories of information for infoDB. Currently, the only category for each person is cars. More categories for each person can be added such as favorite food or favorite color.
+***
+
 ### Week 1 Review Ticket
-**Score from Grader (-----): --/3**
+**Score from Grader (Brian Tang): 2.73/3**
 
 **Team:** 
 - [Initial Requirements & owner contact info](https://github.com/AkhilNandhakumar/Guython#project-plans)
@@ -66,4 +103,4 @@ Tangible Plans:
 - [GitHub Page for TT/Data Structures Code Assignments](https://akhilnandhakumar.github.io/Akhil-Data-Structures/tt)
 - [GitHub Page for Create Task](https://akhilnandhakumar.github.io/Akhil-Data-Structures/ct)
 
-***
+***~~
