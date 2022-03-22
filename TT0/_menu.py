@@ -2,29 +2,26 @@ from TT0 import animation, matrix, pattern, swap
 
 from TT1 import fibonacci, lists
 
-
 # ---------------------------------------------------------
 # ---------------------------------------------------------
 # ---------------------------------------------------------
-
 
 def menu():
-    title = "Function Menu" + banner
+    title = "Main Menu!" + banner
     menu_list = main_menu.copy()
     buildMenu(title, menu_list)
 
-def submenu0():
-    title = "Week 0" + banner
-    buildMenu(title, sub_menu0)
+def numbermenu():
+    title = "Numbers!" + banner
+    buildMenu(title, number_menu)
 
-def submenu1():
-    title = "Week 1" + banner
-    buildMenu(title, sub_menu1)
+def datamenu():
+    title = "Data!" + banner
+    buildMenu(title, data_menu)
 
-def submenu2():
-    title = "Week 2 - Menu" + banner
-    buildMenu(title, sub_menu2)
-
+def visualmenu():
+    title = "Visuals and Graphics!" + banner
+    buildMenu(title, visual_menu)
   
 # ---------------------------------------------------------
 # ---------------------------------------------------------
@@ -32,26 +29,24 @@ def submenu2():
 
 
 main_menu = [
-    ["Week 0", submenu0],
-    ["Week 1", submenu1],
-    ["Week 2", submenu2],
+    ["Numbers! ", numbermenu],
+    ["Data! ", datamenu],
+    ["Visuals and Graphics! ", visualmenu],
 ]
 
-sub_menu0 = [
-    ["Animation", animation.animation],
-    ["Swap", swap.swap],
-    ["Triangle Pattern", pattern.triangle_pattern],
-    ["Matrix Keypad", matrix.matrix],
+number_menu = [
+    ["Matrix Keypad! ", matrix.matrix],
+    ["Number Swap! ", swap.swap],
+    ["Fibonacci Numbers! ", fibonacci.fibonacci],
 ]
 
-sub_menu1 = [
-    ["Fibonacci", fibonacci.fibonacci],
-    ["InfoDB Lists/Loops", lists.tester],
+data_menu = [
+    ["Info Lists and Loops! ", lists.tester],
 ]
 
-sub_menu2 = [
-    ["OOP Temp", None],
-    ["Temp", None],
+visual_menu = [
+    ["Car Animation! ", animation.animation],
+    ["Triangle Pattern! ", pattern.triangle_pattern],
 ]
 
 border = "=" * 25
