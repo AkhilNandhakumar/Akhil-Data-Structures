@@ -40,7 +40,8 @@ number_menu = [
     ["Matrix Keypad! ", matrix.matrix],
     ["Number Swap! ", swap.swap],
     ["Fibonacci Numbers! ", fibonacci.fibonacci],
-    ["Oject Oriented Factorial! ", oop.factorial],  
+    ["OOP Factorial! ", oop.factorial],
+    ["OOP Self Exponent!", oop.exponent],  
 ]
 
 data_menu = [
