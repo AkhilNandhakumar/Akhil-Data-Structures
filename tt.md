@@ -86,7 +86,7 @@ def imperative_exponent(num):
 - Created a Class to determine whether or not 
 a phrase/word is a palindrome, included error 
 support to notify where the palidrome is 
-discontinued.
+discontinued. 
 ```
 class Palindrome:
     def __init__(self, word):
