@@ -18,7 +18,7 @@ def numbermenu():
     buildMenu(title, number_menu)
 
 def datamenu():
-    title = "Data!" + banner
+    title = "Data and Words!" + banner
     buildMenu(title, data_menu)
 
 def visualmenu():
@@ -32,7 +32,7 @@ def visualmenu():
 
 main_menu = [
     ["Numbers and Math! ", numbermenu],
-    ["Data! ", datamenu],
+    ["Data and Words! ", datamenu],
     ["Visuals and Graphics! ", visualmenu],
 ]
 
@@ -46,6 +46,7 @@ number_menu = [
 
 data_menu = [
     ["Info Lists and Loops! ", lists.tester],
+    ["OOP Palindrome! ", oop.palindrome],
 ]
 
 visual_menu = [

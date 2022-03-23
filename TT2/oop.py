@@ -1,3 +1,7 @@
+import re
+
+# -------------------------------------------------------
+
 class Factorial:
   def __init__(self, number):
     self.number = number 
@@ -29,6 +33,57 @@ class Exponent:
       value = (self.number**self.number)
       print(f"Base Number was {self.number}, {self.number}^{self.number} is {value}")
 
+# -------------------------------------------------------
+
+class Palindrome:
+    def __init__(self, word):
+        self.word = word
+        self.user_input = re.sub("[^a-zA-Z0-9]+", "", word.lower())
+        self.length = len(self.user_input)
+
+    def __call__(self):
+        flipped = self.user_input[::-1]
+        count = 0
+        for i in range(0, self.length):
+            print(f"Starting char: '{self.user_input[i]}' --> Ending char: '{flipped[i]}'")
+            if self.user_input[i] == flipped[i]:
+                count = count + 1
+
+            else:
+                print(f"Error found at letter #{i+1} in '{self.user_input}', "
+                      f"which was the letter '{self.user_input[i]}'.")
+                break
+
+        if count == self.length:
+            print(f"The word/phrase, '{self.word}', is a Palindrome.")
+
+        else:
+            print(f"The word/phrase, '{self.word}', is not a Palindrome.")
+
+
+def palindrome():
+    print("--------------------------------------------")
+    print("")
+    pal3 = Palindrome(word="This doesnt siht...")
+    pal3()
+    print("")
+    print("--------------------------------------------")
+    print("")
+    pal2 = Palindrome(word="I love dogs!")
+    pal2()
+    print("")
+    print("--------------------------------------------")
+    print("")
+    pal3 = Palindrome(word="A man, a plan, a canal, panama.")
+    pal3()
+    print("")
+    print("--------------------------------------------")
+    print("")
+    pal1 = Palindrome(word="Bob, Race Car, Bob.")
+    pal1()
+    print("")
+    print("--------------------------------------------")
+   
 # -------------------------------------------------------
 
 def exponent():
