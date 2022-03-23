@@ -15,6 +15,7 @@ class Factorial:
         print(f"Step: {i} - Value: {value}")
       print(f"Final value is {value}")
 
+# -------------------------------------------------------
 
 class Exponent:
   def __init__(self, number):
@@ -26,8 +27,9 @@ class Exponent:
       return self.number
     else:
       value = (self.number**self.number)
-      print(f"Base Number was {self.number}, {self.number}^ {self.number} is {value}")
+      print(f"Base Number was {self.number}, {self.number}^{self.number} is {value}")
 
+# -------------------------------------------------------
 
 def exponent():
   ex1 = Exponent(5)
@@ -48,14 +50,15 @@ def exponent():
   print("------------------------------")
 
     
-  print("testing self exponent using base 2:")
+  print("testing self exponent using base 9:")
   ex3()
   
   print("------------------------------")
   
   print("testing bound error:")
   ex4()
-  
+
+# -------------------------------------------------------
 
 def factorial():
   fact1 = Factorial(3)
