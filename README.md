@@ -35,7 +35,7 @@ forget to do anything.
 
 ### Week 2 Review Ticket
 
-#### Total Score: **4.63/5**
+#### Total Score: **4.9/5**
 Grader: (Brian Tang) - 
 _**(Comments + Scoring Below)**_
 
