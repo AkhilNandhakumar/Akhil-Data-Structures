@@ -1,5 +1,5 @@
 import re
-
+ 
 # -------------------------------------------------------
 
 class Factorial:
@@ -27,7 +27,7 @@ class Exponent:
   
   def __call__(self):
     if self.number <= 0 or self.number > 20:
-      print(f"Error! You inputted {self.number}. please enter an integer from 1-20.")
+      print(f"Error! selected number was {self.number}. please use an integer from 1-20.")
       return self.number
     else:
       value = (self.number**self.number)
@@ -136,3 +136,30 @@ def factorial():
   fact3()
   
   print("------------------------------")
+
+# -------------------------------------------------------
+
+def imperative_exponent(num):
+  if num <= 0 or num > 20:
+    print(f"Error! Selected numbber: {num}. Please use an integer from 1-20.")
+    return num
+  else:
+    value = (num**num)
+    print(f"Base Number was {num}, {num}^{num} is {value}.")
+
+
+def imp_call():
+  print("------------------------------")
+  print("testing self exponent using base 5:")
+  imperative_exponent(5)
+  print("------------------------------")
+  print("testing self exponent using base 2:")
+  imperative_exponent(2)
+  print("------------------------------")
+  print("testing self exponent using base 9:")
+  imperative_exponent(9)
+  print("------------------------------")
+  print("testing bound error:")
+  imperative_exponent(50)
+
+# -------------------------------------------------------

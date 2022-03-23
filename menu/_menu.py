@@ -41,7 +41,8 @@ number_menu = [
     ["Number Swap! ", swap.swap],
     ["Fibonacci Numbers! ", fibonacci.fibonacci],
     ["OOP Factorial! ", oop.factorial],
-    ["OOP Self Exponent!", oop.exponent],  
+    ["OOP Self Exponent!", oop.exponent],
+    ["Imperative Self Exponent!", oop.imp_call],
 ]
 
 data_menu = [
