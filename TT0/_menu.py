@@ -2,6 +2,8 @@ from TT0 import animation, matrix, pattern, swap
 
 from TT1 import fibonacci, lists
 
+from TT2 import oop
+
 # ---------------------------------------------------------
 # ---------------------------------------------------------
 # ---------------------------------------------------------
@@ -29,7 +31,7 @@ def visualmenu():
 
 
 main_menu = [
-    ["Numbers! ", numbermenu],
+    ["Numbers and Math! ", numbermenu],
     ["Data! ", datamenu],
     ["Visuals and Graphics! ", visualmenu],
 ]
@@ -38,6 +40,7 @@ number_menu = [
     ["Matrix Keypad! ", matrix.matrix],
     ["Number Swap! ", swap.swap],
     ["Fibonacci Numbers! ", fibonacci.fibonacci],
+    ["Oject Oriented Factorial! ", oop.factorial],  
 ]
 
 data_menu = [
