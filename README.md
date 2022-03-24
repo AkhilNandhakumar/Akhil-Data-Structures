@@ -63,7 +63,7 @@ InfoDB lists
 
 - [x]  1- One check: comments and documentation throughout
 
-#### Individual Score: 2.73/3
+#### Individual Score: 3/3
 
 ##### Comments:
 
