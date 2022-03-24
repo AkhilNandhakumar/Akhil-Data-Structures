@@ -47,8 +47,7 @@ class Palindrome:
         for i in range(0, self.length):
             print(f"Starting char: '{self.user_input[i]}' --> Ending char: '{flipped[i]}'")
             if self.user_input[i] == flipped[i]:
-                count = count + 1
-
+                count +=1
             else:
                 print(f"Error found at letter #{i+1} in '{self.user_input}', "
                       f"which was the letter '{self.user_input[i]}'.")

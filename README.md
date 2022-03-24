@@ -63,12 +63,11 @@ InfoDB lists
 
 - [x]  1- One check: comments and documentation throughout
 
-#### Individual Score: 3/3
+#### Individual Score: 2.73/3
 
 ##### Comments:
 
 All work other has been completed and code runs properly. One suggestion is to add more categories of information for infoDB. Currently, the only category for each person is cars. More categories for each person can be added such as favorite food or favorite color.
-
 ***
 
 ### Week 1 Review Ticket
