@@ -7,7 +7,7 @@
 - **Review Tickets:**
   - [Week 0 Review Ticket](#week-0-review-ticket)
   - [Week 1 Review Ticket](#week-1-review-ticket)
-  - [Week 2 Review Ticket](#week-2-review-ticket)
+  - [Week 2 Review Ticket](#week-3-review-ticket)
 
 ***
 
@@ -34,6 +34,31 @@ forget to do anything.
 ***
 
 ### Week 2 Review Ticket
+
+#### Total Score: 6/5 (Graded by: Tanay Rayavarapu.)
+
+#### Individual:
+
+- [x] **[TPT 5.5 - 5.6 Notes and Actions](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/blob/main/tpt.md#week-2-tpt-55---56)**
+- [x] [Organize files, directories and menus for the first 3 weeks. ](https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures#_config.yml)
+- [x] [Write Factorial function using classes, providing implementation of call.](https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures#TT2/oop.py)
+- [x] [Select your own Math function. Write it in Imperative and OOP form. ](https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures#TT2/oop.py)
+- [x] [EXTRA CREDIT:  Write Palindrome function using classes, must provide implementation of call.  Must indicate where error occurs on front and back comparison.](https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures#TT2/oop.py)
+
+
+#### Team:
+- [x] **[Big Idea](https://github.com/AkhilNandhakumar/Guython#project-description)**, Sponsor - **Mr. Mortensen**, Hosting Plan - **Temporary AWS hosting for development**, **[GitHub license](https://github.com/AkhilNandhakumar/Guython/blob/main/LICENSE)**
+- [x] WireFrames or Web Page Designs:
+  - **[Calendar wireframe](https://docs.google.com/presentation/d/1LQfwvtHj-Fy-zm9Yuaey_KsImMZtQ5-ZTAPahqgjO98/edit?usp=sharing)**
+  - [Overall Plan](https://github.com/AkhilNandhakumar/Guython#project-plans)
+- [x] **[Key Workflow](https://docs.google.com/drawings/d/1mogokqAFAM5HKk9fLhzz1qdr9THwx2xbRpUxEg_czEs/edit?usp=sharing)** or actions within site.
+- [x] Data and any Data Privacy **(Picture below for login database to use admin perms to edit calendar and content of site)**
+
+![image](https://user-images.githubusercontent.com/89219514/160197012-c5e6132b-dee9-4f15-b175-7664631754ed.png)
+
+***
+
+### Week 1 Review Ticket
 
 #### Total Score: **4.9/5**
 Grader: (Brian Tang) - 
@@ -68,12 +93,9 @@ InfoDB lists
 ##### Comments:
 
 All work other has been completed and code runs properly. One suggestion is to add more categories of information for infoDB. Currently, the only category for each person is cars. More categories for each person can be added such as favorite food or favorite color.
-***
-
-### Week 1 Review Ticket
-**Score from Grader (Brian Tang): 2.73/3**
 
 **Team:** 
+
 - [Initial Requirements & owner contact info](https://github.com/AkhilNandhakumar/Guython#project-plans)
 
 Tangible Plans:
