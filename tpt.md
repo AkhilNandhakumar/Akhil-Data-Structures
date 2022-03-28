@@ -7,7 +7,7 @@
 ### Table of Contents:
 - [Week 0](#week-0-tpt-51---52)
 - [Week 1](#week-1-tpt-53---54)
-- [Week 2](#week-1-tpt-55---56)
+- [Week 2](#week-2-tpt-55---56)
 
 ***
 
