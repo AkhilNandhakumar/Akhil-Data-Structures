@@ -17,13 +17,13 @@
 
 ***
 
-#### TT0 Details
+### TT0 Details
 - Worked on making a menu with submenus for python
 - Made the static menu, need to still make the menu using proper data structures and try/excepts
 
 ***
 
-#### TT1 Details
+### TT1 Details
 - Added infoDB to menu under LISTS
 - Added Fibonacci recursive to menu under NUMBERS
 
@@ -40,7 +40,7 @@ The developer should be very careful with recursion as it can be quite easy to s
 However, when written correctly recursion can be a very efficient and mathematically-elegant approach to programming.
 ***
 
-#### TT2 Details
+### TT2 Details
 - Created a Class to do factorials using OOP method
 ```
 class Factorial:
