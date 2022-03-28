@@ -89,9 +89,38 @@ The people that did test it before release might not have had darker skin, which
 ***
 
 ## Week 2 (TPT 5.5 - 5.6)
-- content
+5.5:
+- The use of material created by someone else without permission and presented as one’s own is plagiarism and may have legal consequences
+- A creative commons license enables the free distribution of copyrighted work.
+- This can be used when the creator wants to give the other permission to share use and build upon their work
+- Open source: programs made freely available and may be modified without requesting permission
+- Open access: online research output free of any restriction on access.
+- Using computing to harm individuals or groups raises legal and ethnic concerns
+5.6:
+- PII is information about someone that identifies or links them to things and can include:
+- Search engines can record and maintain history of searches
+- Websites can record history of people who viewed their page
+- Devices and websites can collect information about a user’s location
+- Technology enables the collection use, and exploitation of information about, by, and for individuals, groups, and institutions
+- Search engines can use search history to suggest websites
+- All of this information can be used in ways to create a harmful or negative impact.
+- PII can be stolen to stalk or steal the identity of someone for use in criminal acts
+- Once information is online, it is very difficult to delete
+- Programs can collect your location and log it
+- Social media information can be used by others
+- All of this can be used to infer private information
+
 
 ### Actions:
-- content
+- PII that we include in our CSP projects is our names, contact info, what school we go to, our previous projects/assignments.
+- I think that I am not very exposed, that there is little to none bad PII about we accessible to the public (or through nefarious methods)
+- A good password is long, random, and uses alphanumerics + special symbols. A bad password is short and easy to guess.
+- Symmetric encryptio uses 1 (private) key, Asymmetric encryption is more modern method and uses 2 keys (public and private).
+- When we deploy, we encode private information about the machine and user that made the deployment, such as IP address.
+- phishing methods like "you won a free walmart giftcard" or "click here for your refunds" are some things I used to look at and believe when I was youhnger and uneducated on privacy on the internet.
+
+
+- Open Source MIT license to make a profit
+- we chose GNU GPLv3 for our site so thought our education is free and people that access it can't rehash it to sell for a profit. The education should be free for all.
 
 ***
