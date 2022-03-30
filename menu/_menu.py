@@ -2,7 +2,7 @@ from TT0 import animation, matrix, pattern, swap
 
 from TT1 import fibonacci, lists
 
-from TT2 import oop
+from TT2 import oop, numberguesser
 
 # ---------------------------------------------------------
 # ---------------------------------------------------------
@@ -53,6 +53,10 @@ data_menu = [
 visual_menu = [
     ["Car Animation! ", animation.animation],
     ["Triangle Pattern! ", pattern.triangle_pattern],
+    
+    
+    
+  
 ]
 
 border = "=" * 25
@@ -108,3 +112,5 @@ def buildMenu(banner, options):
     # end validation try
 
     buildMenu(banner, options)  # recursion, start menu over again
+
+  
