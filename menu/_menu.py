@@ -1,8 +1,8 @@
-from TT0 import animation, matrix, pattern, swap
+from TT0 import animation, matrix, pattern, swap 
 
 from TT1 import fibonacci, lists
 
-from TT2 import oop, numberguesser
+from TT2 import oop, numberguesser, animation1
 
 # ---------------------------------------------------------
 # ---------------------------------------------------------
@@ -57,7 +57,8 @@ data_menu = [
 
 visual_menu = [
     ["Car Animation! ", animation.animation],
-    ["Triangle Pattern! ", pattern.triangle_pattern],    
+    ["Triangle Pattern! ", pattern.triangle_pattern],
+    ["Loading Animation! ", animation1.animate],
 ]
 
 games_menu = [
