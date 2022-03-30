@@ -10,7 +10,7 @@ def guesser():
   # {lowerbound}: This is how to use f strings"
   
   
-  guess = int(input(f"Welcome to the Random Number Guessing Game! Please pick a number between your bounds {lowerBound} and {higherBound}\n"))
+  guess = int(input(f"Hello, welcome to the Number Guesser Game. Please guess a {lowerBound} and {higherBound}\n"))
   
   while guessCount > 0:
     print("Amount of guesses left: ", guessCount)

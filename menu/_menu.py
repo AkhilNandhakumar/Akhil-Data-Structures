@@ -24,6 +24,10 @@ def datamenu():
 def visualmenu():
     title = "Visuals and Graphics!" + banner
     buildMenu(title, visual_menu)
+
+def gamesmenu():
+    title = "Fun Mini-Games!" + banner
+    buildMenu(title, games_menu)
   
 # ---------------------------------------------------------
 # ---------------------------------------------------------
@@ -34,6 +38,7 @@ main_menu = [
     ["Numbers and Math! ", numbermenu],
     ["Data and Words! ", datamenu],
     ["Visuals and Graphics! ", visualmenu],
+    ["Fun Mini-Games!", gamesmenu]
 ]
 
 number_menu = [
@@ -52,11 +57,11 @@ data_menu = [
 
 visual_menu = [
     ["Car Animation! ", animation.animation],
-    ["Triangle Pattern! ", pattern.triangle_pattern],
-    
-    
-    
-  
+    ["Triangle Pattern! ", pattern.triangle_pattern],    
+]
+
+games_menu = [
+    ["Number-Guesser! ", numberguesser.guesser]
 ]
 
 border = "=" * 25
