@@ -9,6 +9,14 @@
   - [Week 1 Review Ticket](#week-1-review-ticket)
   - [Week 2 Review Ticket](#week-2-review-ticket)
 
+# Week Review Tickets (TimeBox)
+
+Week Number | Theme | Review Ticket | 
+----- | ----- | ----- | 
+Week 0 | Plans, Teams, and Jobs | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/8) | 
+Week 1 | Lists and Loops | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/16) | 
+Week 2 | Classy Functions | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/22) | 
+
 ***
 
 ## Current Project Overview and Plans:
