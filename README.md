@@ -4,6 +4,7 @@
 
 ### Table of Contents:
 - [Current Project](#current-project-overview-and-plans)
+- [Team ScrumBoard](https://github.com/AkhilNandhakumar/Guython.git)
 - **Review Tickets:**
   - [Week 0 Review Ticket](#week-0-review-ticket)
   - [Week 1 Review Ticket](#week-1-review-ticket)
