@@ -107,13 +107,6 @@ def recur_factorial(n):
         return n * recur_factorial(n-1)
 
 
-def factorial_tester():
-    num = int(input("Enter a number for factorial: "))
-    # check if the number is negative
-    if num < 0:
-        print("Sorry, factorial does not exist for negative numbers")
-    else:
-        print("The factorial of", num, "is", recur_factorial(num))
 
 def tester():
     print("For loop")
