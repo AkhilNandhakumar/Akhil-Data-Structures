@@ -12,16 +12,6 @@
   - [Week 3 Review Ticket](#week-3-review-ticket)
   - [Week 4 Review Ticket](#week-4-review-ticket)
 
-# Week Review Tickets (TimeBox)
-
-Week Number | Theme | Review Ticket | 
------ | ----- | ----- | 
-Week 0 | Plans, Teams, and Jobs | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/8) | 
-Week 1 | Lists and Loops | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/16) | 
-Week 2 | Classy Functions | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/22) | 
-Week 3 | Alg. Final | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/25) | 
-Week 4 | Accounts and Login | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/31) | 
-
 ***
 
 ## Current Project Overview and Plans:
