@@ -9,6 +9,8 @@
   - [Week 0 Review Ticket](#week-0-review-ticket)
   - [Week 1 Review Ticket](#week-1-review-ticket)
   - [Week 2 Review Ticket](#week-2-review-ticket)
+  - [Week 3 Review Ticket](#week-3-review-ticket)
+  - [Week 4 Review Ticket](#week-4-review-ticket)
 
 # Week Review Tickets (TimeBox)
 
@@ -17,6 +19,8 @@ Week Number | Theme | Review Ticket |
 Week 0 | Plans, Teams, and Jobs | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/8) | 
 Week 1 | Lists and Loops | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/16) | 
 Week 2 | Classy Functions | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/22) | 
+Week 3 | Alg. Final | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/25) | 
+Week 4 | Accounts and Login | [Review Ticket](https://github.com/AkhilNandhakumar/Guython/issues/31) | 
 
 ***
 
@@ -39,6 +43,36 @@ adding or creating a study calendar / organizer for
 CSP students, which would allow to plan our their 
 week or studying so that they don't procrastinate or 
 forget to do anything.
+
+***
+
+### Week 4 Review Ticket
+
+- CB Create Task: [Documentation & Runtime](https://akhilnandhakumar.github.io/Akhil-Data-Structures/ct)
+- Accounts & Logins:
+- [x] integrated into sponsor site
+  - Hack 1: [Frontend](https://github.com/AkhilNandhakumar/Guython/blob/22efa880acf07741a78aadb5c1ce9847e2c49df8/cruddy/templates/cruddy/authorize.html#L33-L34) [Backend](https://github.com/AkhilNandhakumar/Guython/blob/22efa880acf07741a78aadb5c1ce9847e2c49df8/cruddy/app_crud.py#L59-L60)
+  - Hack 2: [Frontend](https://github.com/AkhilNandhakumar/Guython/blob/22efa880acf07741a78aadb5c1ce9847e2c49df8/cruddy/templates/cruddy/crud.html#L28-L30) [Backend](https://github.com/AkhilNandhakumar/Guython/blob/22efa880acf07741a78aadb5c1ce9847e2c49df8/cruddy/app_crud.py#L66-L69)
+  - Hack 3: [Frontend](https://github.com/AkhilNandhakumar/Guython/blob/22efa880acf07741a78aadb5c1ce9847e2c49df8/cruddy/templates/cruddy/search.html#L27-L29) [Backend](https://github.com/AkhilNandhakumar/Guython/blob/22efa880acf07741a78aadb5c1ce9847e2c49df8/cruddy/app_crud.py#L126-L127)
+
+***
+
+### Week 3 Review Ticket
+
+#### Total Checks: 9.75/10 by Tanay Rayavarapu
+#### [Video Link](https://youtu.be/SJqbC-DlWFU)
+
+#### Quality of Work/Organization
+- **[Github Pages](https://akhilnandhakumar.github.io/Akhil-Data-Structures/index)**
+- **[Replit](https://replit.com/@AkhilNandhakuma/Akhil-Data-Structures#menu/_menu.py)**
+- **Review Tickets (also included on github pages):** [Open Tickets](https://github.com/AkhilNandhakumar/Guython/issues?q=is%3Aissue+is%3Aopen+label%3Aakhil), [Closed Tickets](https://github.com/AkhilNandhakumar/Guython/issues?q=is%3Aissue+label%3Aakhil+is%3Aclosed)
+
+#### Coding Review/Requirments
+- **[GitHub Pages for Tech Talk*](https://akhilnandhakumar.github.io/Akhil-Data-Structures/tt)*
+- **[GitHub Commits](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/commits/main)** 
+- **[Github Insights](https://github.com/AkhilNandhakumar/Akhil-Data-Structures/pulse)**
+- **Code Running on Replit and IntelliJ** (Demonstrated in Video)
+- **[Commits in Crossover Repo](https://github.com/TANAY101405/TanayRayavarapu/commits?author=AkhilNandhakumar)** 
 
 ***
 
