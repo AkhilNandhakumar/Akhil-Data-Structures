@@ -43,11 +43,19 @@
 ***
 
 ## Quiz 1
-- content
+
+#### Score: 
+
+#### Corrections
+- 
 
 ***
 
 ## Quiz 2
-- content
+
+#### Score: 
+
+#### Corrections:
+- 
 
 ***
