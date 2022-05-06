@@ -10,6 +10,7 @@
 - [Quiz 1](#quiz-1)
 - [Quiz 2](#quiz-2)
 - [Quiz 3](#quiz-3)
+- [Quiz 5](#quiz-5)
 
 ***
 
@@ -102,5 +103,14 @@
 - **Q24**: I didn't see that the question said "if the sensor was not activated" instead of "it was activated" which was the only error with the response.
 - **Q34**: Forgot the meaning of heuristic, need to review what it means. The algorithm in the correct answer has a factorial efficiency, and it does not run in a reasonable amount of time. A heuristic approach can be used to find an approximate solution than can run in a reasonable amount of time. 
 - **Q47**: The code I chose incorrectly set the bonus when the score was greater than 100, and the correct answer was D, since the code segment sets the bonus to 0 when the score is less than 50, sets the bonus to score * 10 when score is greater than 100, and sets bonus to score when 100 is greater than or eqal to score which is greater than or equal to 50.
+
+***
+
+## Quiz 5
+
+#### Score: 25/25
+
+#### Corrections/Reflection:
+- I was iffy on the encryption question, but the rest felt pretty good. I'm going to look over the ap csp quizlet to review encryption and I should feel comfortable for the exam.
 
 ***
