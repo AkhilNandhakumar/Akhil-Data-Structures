@@ -5,6 +5,7 @@
 ### Table of Contents:
 - [Current Project](#current-project-overview-and-plans)
 - [Team ScrumBoard](https://github.com/AkhilNandhakumar/Guython.git)
+- [Documentation of Individual Achievements](#documentation-of-individual-achievements)
 
 <br>
 
@@ -17,7 +18,7 @@
   - [Week 5 Review Ticket](#week-5-review-ticket)
 
 ***
-## Documentation of Individual Acheivements
+## Documentation of Individual Achievements
 During this trimester, I grew a lot in CSP. I learned about logins and authorization, CRUD, Databases, linking puthong to jinji2 in the backend, and connecting it all with Javascript and HTML on the front end. My greatest success this trimester was **implementing the Calendar linked to the Database and login**. The user is forced to login with the admin account to be able to create, read, update, and delete events on the calendar. The python and jinja checks which month is selected, and updated the events on the specific days so that each month can have unique events, using the same div elements. I also contributed with creating a custom css style sheet for out github pages so that the theme's were the same, and switching back and forth was seemless. I think that I utilized my time well this trimester and was able to accomplish a lot of our sponsor's (Mr. M) desires.
 
 ## Current Project Overview and Plans:
